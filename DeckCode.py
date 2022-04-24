@@ -3,7 +3,7 @@
 #Also inculude in "ASCII" encryption [as235,as45,as5,as89,as567]                    
 #---Process is a short Process of Encryption---
 #---this process does not have pip install---
-# git clone...
+# just it's has a git clone...
 
 
 class ascii:
@@ -78,12 +78,7 @@ class ascii_decoding:
         for z in text_4:
             decoding_4=decoding_4+chr(ord(z)-20)
         print(str(decoding_4))
-    
-
-
-
+   
 
 #2020:28
-        
-
-
+       
