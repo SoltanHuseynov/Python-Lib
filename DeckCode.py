@@ -5,7 +5,6 @@
 #---this process does not have pip install---
 # just it's has a git clone...
 
-
 class ascii:
 
     #as15
@@ -79,6 +78,3 @@ class ascii_decoding:
             decoding_4=decoding_4+chr(ord(z)-20)
         print(str(decoding_4))
    
-
-#2020:28
-       
