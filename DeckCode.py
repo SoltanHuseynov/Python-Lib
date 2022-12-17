@@ -3,7 +3,6 @@
 #Also inculude in "ASCII" encryption [as235,as45,as5,as89,as567]                    
 #---Process is a short Process of Encryption---
 #---this process does not have pip install---
-# just it's has a git clone...
 
 class ascii:
 
