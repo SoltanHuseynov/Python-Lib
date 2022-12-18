@@ -1,11 +1,2 @@
-Python-Lib
-
-this process does not have pip install
-
-1)Linux
-
-linux: git clone https://github.com/SoltanHuseynov/Python-Lib.git
-
-2)Windows
-
-windows cmd: git clone https://github.com/SoltanHuseynov/Python-Lib.git
+## ASCII code
+<img src="https://alpharithms.s3.amazonaws.com/assets/img/ascii-chart/ascii-table-alpharithms-scaled.jpg"/>
